@@ -1,7 +1,7 @@
 {
   "clientes": [
     {
-      "nombre": "Lilith Arista",
+      "nombre": "Lilith ACTUALIZADO",
       "empresa": "moises",
       "email": "moisesjimenez@yandex.com",
       "telefono": "54654654",
@@ -33,12 +33,20 @@
       "id": 4
     },
     {
-      "nombre": "Lilith Arista",
+      "nombre": "Lilith Arista Actualizado",
       "empresa": "moises",
       "email": "moisesjimenez@yandex.com",
       "telefono": "",
       "notas": "",
       "id": 5
+    },
+    {
+      "nombre": "Lilith",
+      "empresa": "KyokoApps",
+      "email": "KumyYami@Yandex.com",
+      "telefono": "",
+      "notas": "",
+      "id": 6
     }
   ]
 }
